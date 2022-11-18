@@ -1,7 +1,4 @@
-Login credentials for Holidaze:
 
-Username: admin
-Password: Tesla2021
 
 # Getting Started with Create React App
 
